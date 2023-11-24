@@ -1,0 +1,21 @@
+.logo {
+
+    img {
+        justify-content: center;
+        max-width: 5em;
+        max-height: 5em;
+    }
+}
+
+.experiences {
+    max-width: 30em;
+
+    .job {
+        display: flex;
+        margin-bottom: 1em;
+
+        .occupation {
+            margin-bottom: 2em;
+        }
+    }
+}
